@@ -11,3 +11,5 @@ class Solution:
             else:
                 i+=1
         return intervals
+    
+    #this can also be done via linear search but this is a quick solution in nlogn time complexity
